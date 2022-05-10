@@ -1,0 +1,3 @@
+======Image Example======
+
+{{..:lightbulb.png|lightbulb}}

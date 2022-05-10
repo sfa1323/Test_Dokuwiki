@@ -1,0 +1,7 @@
+====Test DokuWiki Documentation===
+
+The documentation includes the following topics:
+
+  * [[wiki:page1|Headings example]]
+  * [[wiki:page2|Image example]]
+  * [[wiki:page3|Non-existing page example]]
